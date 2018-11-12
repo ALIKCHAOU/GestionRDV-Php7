@@ -1,0 +1,14 @@
+.topsocial{
+	display:flex;
+	justify-content: space-between;
+}
+
+ .headercontainer { 
+ color: white;
+ background-color: #222;}
+ .toptext{
+	 margin-left: 20px;
+ }
+ .topfb{
+ margin-right: 20px;
+ }

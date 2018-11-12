@@ -1,0 +1,4 @@
+delete patients:
+delete from patients profiles
+delete from autentification 
+delete from rendezvous 

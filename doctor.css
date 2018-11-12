@@ -1,0 +1,32 @@
+.link{
+    color: white;
+    background: #485b5d;
+    padding: 10px 20px;
+    display: block;
+    margin: 10px 0;
+    text-align: center;
+	width:300px;
+	height:100px;
+	display: inline-block;
+	margin: 20px;
+	font-weight: bold;
+}
+.conatainerdoc{
+	display:flex;
+	
+}
+a{
+	 color: white;
+	text-decoration:none;
+}
+.deconnection{
+	height:30px;
+	width:100px;
+	 margin: 10px 0;
+	 color: white;
+	 background: red;
+	text-align: center;
+	font-size:18px;
+	font-weight: bold;
+	border:1px solid red;
+}

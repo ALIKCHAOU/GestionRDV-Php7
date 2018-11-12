@@ -1,0 +1,27 @@
+a {
+	 color: white;
+     padding: 6.5px 10px;
+    text-decoration: none;
+    background-color: #282828;
+	margin-left: 10px;
+	    border-radius: 5px
+
+}
+  table,tr,th,td
+            {
+                border: 1px solid black;
+            }
+.btn{
+	margin:20px;
+}
+#search{
+	color: white;
+     padding: 6.5px 10px;
+    text-decoration: none;
+    background-color: #282828;
+	
+	    border-radius: 5px
+}
+.search{
+	margin:20px;
+}
